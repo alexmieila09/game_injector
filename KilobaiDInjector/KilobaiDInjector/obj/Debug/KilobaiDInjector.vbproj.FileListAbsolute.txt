@@ -1,0 +1,11 @@
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\bin\Debug\KilobaiDInjector.exe.config
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\bin\Debug\KilobaiDInjector.exe
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\bin\Debug\KilobaiDInjector.pdb
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\bin\Debug\KilobaiDInjector.xml
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.vbprojResolveAssemblyReference.cache
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.Form1.resources
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.Resources.resources
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.vbproj.GenerateResource.Cache
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.exe
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.xml
+D:\Area\DevelopArea\KilobaiDInjector\KilobaiDInjector\obj\Debug\KilobaiDInjector.pdb
